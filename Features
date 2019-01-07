@@ -1,0 +1,21 @@
+Features of Viper 
+1. Excel data driven support
+2. BDD and NON Bdd support
+3. Allure reporting 
+4. Page Factory support
+5. Bar code Online verification support
+6. Image comparison support 
+7. Voice based reporting 
+8. Extent reporting
+9 . Selenium Grid execution support
+10. Chrome and Firefox headless support
+11. WebDriver manager support (No need to download drivers)
+12. Accessibility testing of web sites 
+13. Shutter bug screenshot
+14. Reusable request objects for Get/Post/Put and Delete
+15. Allure test reporting 
+16. JSON data driven test support
+17. Reusable screen/page objects support for Mobile Apps
+18. Runs on real mobile devices
+19. BDD and NON BDD mobile automation execution
+20. Windows BDD and Non BDD Support 
